@@ -10,7 +10,6 @@ The commands and interaction with **spojit&#0344;** are exemplified using the op
 We selected this project based on its moderate size footnote:[For larger projects it may take longer to initially build the local database and train the classifier.] in terms of development artifacts which perfectly fits the purpose of a quick demo.
 The source code of _Crunch_ is hosted on github (https://github.com/apache/crunch) and the issues are hosted on the jira installation of the apache software foundation (https://issues.apache.org/jira/projects/CRUNCH/summary).
 
-NOTE: There is also a video ...
 
 == Build and start a **spojit&#0344;** docker container
 
@@ -19,6 +18,8 @@ NOTE: There is also a video ...
 . Start **spojit&#0344;** container with `docker run -it --name spojitr spojitr` or call the script `docker_run.sh`
 
 == Setting up project `crunch` in the docker container
+
+NOTE: See also the youtube video showing these steps: https://youtu.be/-zwN6p4Q0jo?t=150
 
 In the docker container, clone the `crunch` repository from github https://github.com/apache/crunch using the following command:
 

@@ -5,7 +5,9 @@ The current implementation specifically targets the combination of _git_ as VCS 
 
 ## Quick Start
 
-You can watch an introduction video on youtube.
+You can watch an introduction video on youtube: https://www.youtube.com/watch?v=-zwN6p4Q0jo
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-zwN6p4Q0jo/0.jpg)](https://www.youtube.com/watch?v=-zwN6p4Q0jo)
 
 Further, we created an [interactive demonstration](demo.asciidoc) within a docker container to get a first impression about **spojit&#344;** and its capabilities.
 
